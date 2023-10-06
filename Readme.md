@@ -1,4 +1,12 @@
-# DIO - Trilha Java Básico
+# Resolução
+
+A resolução do desafio se encontra nas classes criadas. Foi adicionada uma classe Poo.java que simula o funcionamento da implementação.
+
+## Diagrama de Classes
+
+![diagrama de classe](https://github.com/denisoncorbal/poo-santander-bootcamp/blob/main/diagrama%20de%20classes%20uml.png)
+
+### DIO - Trilha Java Básico
 www.dio.me
 
 #### Autores

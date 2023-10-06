@@ -1,0 +1,1 @@
+public class IphoneOne extends Iphone{}
